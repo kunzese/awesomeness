@@ -1,20 +1,12 @@
-name: reviewdog
+name: tests
 on: [pull_request]
 jobs:
-  markdownlint:
-    name: runner / markdownlint
+  test:
+    name: awesome-lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
         with:
           submodules: true
-      - name: markdownlint-github-pr-check
-        uses: chick-p/action-markdownlint@v1
-        with:
-          github_token: ${{ secrets.github_token }}
-          reporter: github-pr-check
-      - name: markdownlint-github-pr-review
-        uses: chick-p/action-markdownlint@v1
-        with:
-          github_token: ${{ secrets.github_token }}
-          reporter: github-pr-review
+      - name: awesome-lint
+        uses: squadcastHQ/awesome-lint-action@v1.0.1
