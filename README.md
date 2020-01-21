@@ -29,10 +29,9 @@
 ## Testframeworks
 
 - [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions.
-- [pollyjs](https://github.com/Netflix/pollyjs) - Polly.JS is a standalone, framework-agnostic JavaScript library that enables recording, replaying, and stubbing of HTTP interactions
-- [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too
+- [KitchenCI](https://kitchen.ci/) - Infrastructure Code Deserves Tests Too.
 
-## DevShit 💩
+## DevShit
 
 - [GitHub-CodeOwners](https://help.github.com/en/articles/about-code-owners) - You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 - [VSCodium](https://vscodium.com/) - Free/Libre Open Source Software Binaries of VSCode.
@@ -47,17 +46,15 @@
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git.
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line.
 
-## OpsShit 💩
+## OpsShit
 
-- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database
+- [M3](https://www.m3db.io/) - The fully open source metrics platform built on M3DB, a distributed timeseries database.
 
 ## Serverless
 
 - [OpenFaaS](https://github.com/openfaas/faas/) - Serverless Functions Made Simple.
 
-## Containers
-
-### Kubernetes
+## Kubernetes
 
 - [tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Skaffold](https://skaffold.dev) - Easy and Repeatable Kubernetes Development.
@@ -71,8 +68,7 @@
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) - Converts your HTML clipboard to Markdown.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
-- [sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
-- [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit
+- [Remote Work Toolkit](https://nohq.co/tools/) - Remote Work Toolkit.
 
 ## Sec
 
