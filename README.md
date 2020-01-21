@@ -1,5 +1,7 @@
 # Innovation Weekly
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 ## Contents
 
 <!-- toc -->
